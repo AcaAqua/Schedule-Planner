@@ -1,0 +1,8 @@
+
+{
+  "name": "Guild Schedule Planner",
+  "description": "A web application for gaming guilds to manage and share event schedules, including battles, maintenance, and community events. Features customizable views, themes, and notifications.",
+  "requestFramePermissions": [
+    "firebase"
+  ]
+}
